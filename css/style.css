@@ -29,7 +29,7 @@ img{
     padding-right: 40px;
 }
 .hero-left h1 span{
-    color: orange;
+    color: #80b500;
 }
 
 .hero-left p{
@@ -41,7 +41,7 @@ img{
     text-decoration: none;
     text-transform: uppercase;
     padding: 15px 40px;
-    background-image: linear-gradient(90deg, orange, tomato);
+    background-image: linear-gradient(90deg, #c7eb75, #80b500);
     color: white;
     border-radius: 50px;
 }
