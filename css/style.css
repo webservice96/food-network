@@ -72,3 +72,34 @@ img{
 .about-right p {
     margin-bottom: 80px;
 }
+
+.recipies-header {
+    text-align: center;
+    color: #47484c;
+    padding: 0 150px;
+    margin-bottom: 40px;
+}
+/* recipies section css */
+.recipie-img-box1{
+    background-image:url(../images/food/Project-Cover5.png)
+}
+.recipie-img-box2{
+    background-image:url(../images/food/Project-Cover7.png)
+}
+.recipie-img-box3{
+    background-image:url(../images/food/Project-Cover8.png)
+}
+
+.recipies-item {
+    margin: 15px;
+    box-shadow: 1px 1px 26px 4px #ddd;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.recipies-image {
+    min-height: 280px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 20px;
+}
