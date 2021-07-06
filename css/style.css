@@ -123,3 +123,19 @@ img{
 .counter-item h1 {
     margin: 0;
 }
+
+footer.site-footer {
+    text-align: center;
+    background-color: #000;
+    color: #c5baba;
+    padding: 50px 0;
+}
+
+footer.site-footer h1 span {
+    color: orange;
+}
+
+footer.site-footer h1 {
+    color: #333;
+    margin: 0;
+}
